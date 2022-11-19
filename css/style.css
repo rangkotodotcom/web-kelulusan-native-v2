@@ -1,0 +1,33 @@
+.modal-dialog{
+	border-radius: 5px;
+}
+.modal-header{
+	background-color: #6A5ACD;
+}
+.modal-title{
+	color: white;
+}
+.modal-body{
+	background-image: url(../img/tetap/background.jpg);
+	margin: 0;
+}
+.modal-body h1{
+	color: white;
+	font-weight: bold;
+}
+.modal-footer{
+	background-color: #6A5ACD;
+}
+form input[type=text]{
+	background: rgba(0,0,0,0.1);
+	font-family: all;
+	font-weight: bold;
+	font-size: 20px;
+	color: white; 
+}
+form input[type=password]{
+	background: rgba(0,0,0,0.1);
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
